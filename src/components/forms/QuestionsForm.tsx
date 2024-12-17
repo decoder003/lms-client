@@ -17,8 +17,8 @@ import {
   DialogHeader,
   DialogTitle,
   DialogTrigger,
+  DialogDescription
 } from "../ui/dialog";
-import { DialogDescription } from "@radix-ui/react-dialog";
 import { Label } from "../ui/label";
 import { Input } from "../ui/input";
 import { Plus, Trash2, X } from "lucide-react";
