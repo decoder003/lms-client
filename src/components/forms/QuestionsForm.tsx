@@ -17,7 +17,7 @@ import {
   DialogHeader,
   DialogTitle,
   DialogTrigger,
-  DialogDescription
+  DialogDescription,
 } from "../ui/dialog";
 import { Label } from "../ui/label";
 import { Input } from "../ui/input";
